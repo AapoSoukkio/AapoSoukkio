@@ -33,10 +33,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-
-[## My GitHub stats 📈
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AapoSoukkio&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)](url)
-
 <!---
 AapoSoukkio/AapoSoukkio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
