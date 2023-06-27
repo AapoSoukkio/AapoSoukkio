@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Imaginative, ambitious programmer, with a passion for problem solving and SW-design. 
 
-- Currently, I have completed three-quarters of my ongoing Information Technology studies at Savonia University of Applied Sciences.
+- Currently, I approach the completion of my Information technology studies that are ongoing at Savonia University of Applied Sciences
 
 - Looking for opportunities in software engineering field. Please feel free to contact me if you think I'd be a good match!
 
