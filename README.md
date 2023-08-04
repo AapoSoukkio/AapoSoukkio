@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Always open to feedback and  pull requests if something comes to your mind about my repositories
 
-- - You can learn more about me on my website 👉 [aaposoukkio.com](https://aaposoukkio.com/)
+ - You can learn more about me on my website 👉 [aaposoukkio.com](https://aaposoukkio.com/)
 
 ## How to reach me 📫
 
