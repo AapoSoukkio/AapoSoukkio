@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Currently, I approach the completion of my Information technology studies that are ongoing at Savonia University of Applied Sciences
 
-- Looking for opportunities in software engineering field. Please feel free to contact me if you think I'd be a good match!
+- Working as software developer in Vitec Katrina
 
 - Always open to feedback and  pull requests if something comes to your mind about my repositories
 
