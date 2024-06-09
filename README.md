@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## How to reach me 📫
 
 - 🤝  connect with me on linkedin: https://www.linkedin.com/in/aapo-soukkio-a132b2244/
-- 📧  send me an email: aapo.soukkio@edu.savonia.fi
+- 📧  send me an email: aapo.soukkio@gmail.com
 - 📱   Give me a call: (+358)452334618
 
 ## 🧰🔧 My toolkit 
