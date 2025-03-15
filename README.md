@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Imaginative programmer, with a curious mind.
 
-- Working as software developer in Vitec Katrina
+- Working as software developer in [Vitec Software Group](https://www.vitecsoftware.com/)
 
 - Always open to feedback and  pull requests if something comes to your mind about my repositories
 
