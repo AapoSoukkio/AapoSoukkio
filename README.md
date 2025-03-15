@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aapo Soukkio!
 =====================================================================================================================================
 
-- Imaginative, ambitious programmer, with a passion for problem solving and SW-design. 
-
-- Currently, I approach the completion of my Information technology studies that are ongoing at Savonia University of Applied Sciences
+- Imaginative programmer, with a curious mind.
 
 - Working as software developer in Vitec Katrina
 
@@ -15,7 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🤝  connect with me on linkedin: https://www.linkedin.com/in/aapo-soukkio-a132b2244/
 - 📧  send me an email: aapo.soukkio@gmail.com
-- 📱   Give me a call: (+358)452334618
 
 ## 🧰🔧 My toolkit 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
